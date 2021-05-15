@@ -1,9 +1,9 @@
 This is a simple code in which we take the emloyee details as input and if he want we can dispay and also raise the salary of an employee.
 At first we will give the option to choose his chioce,in which it contain 
-                                                                          Enter 1 to create data
-                                                                          Enter 2 to dispaly data
-                                                                          Enter 3 to raise salary
-                                                                          Enter 4 to exit
+											  Enter 1 to create data
+											  Enter 2 to dispaly data
+											  Enter 3 to raise salary
+											  Enter 4 to exit
 for this we use the below code
 
               System.out.println("Enter 1 to create data");

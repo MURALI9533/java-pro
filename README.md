@@ -11,7 +11,7 @@ for this we use the below code
               System.out.println("Enter 3 to raise salary");
               System.out.println("Enter 4 to exit");
               choice=s.nextInt();
- when the user choose his choice acoording to that we will call the methods,for this we user swicth()
+ when the user choose his choice acoording to that we will call the methods,for this we user switch()
                     
                     switch(choice)
                     {
